@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\Studia\mu_lambda\mu_labda\mu_labda\bin\Debug\mu_labda.exe.config
+C:\Users\danie\Desktop\Studia\mu_lambda\mu_labda\mu_labda\bin\Debug\mu_labda.exe
+C:\Users\danie\Desktop\Studia\mu_lambda\mu_labda\mu_labda\bin\Debug\mu_labda.pdb
+C:\Users\danie\Desktop\Studia\mu_lambda\mu_labda\mu_labda\obj\Debug\mu_labda.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Studia\mu_lambda\mu_labda\mu_labda\obj\Debug\mu_labda.Properties.Resources.resources
+C:\Users\danie\Desktop\Studia\mu_lambda\mu_labda\mu_labda\obj\Debug\mu_labda.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Studia\mu_lambda\mu_labda\mu_labda\obj\Debug\mu_labda.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Studia\mu_lambda\mu_labda\mu_labda\obj\Debug\mu_labda.exe
+C:\Users\danie\Desktop\Studia\mu_lambda\mu_labda\mu_labda\obj\Debug\mu_labda.pdb
+C:\Users\danie\Desktop\Studia\mu_lambda\mu_labda\mu_labda\obj\Debug\mu_labda.Wykres.resources
