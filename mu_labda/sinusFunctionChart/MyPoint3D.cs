@@ -1,12 +1,12 @@
 ﻿namespace mu_labda
 {
-    public class My3DPoint
+    public class MyPoint3D
     {
-        private int x;
-        private int y;
-        private double z;
+        private readonly int x;
+        private readonly int y;
+        private readonly double z;
 
-        public My3DPoint(int x, int y, double z)
+        public MyPoint3D(int x, int y, double z)
         {
             this.x = x;
             this.y = y;
@@ -15,17 +15,17 @@
 
         public int GetX()
         {
-            return this.x;
+            return x;
         }
 
         public int GetY()
         {
-            return this.y;
+            return y;
         }
 
         public double GetZ()
         {
-            return this.z;
+            return z;
         }
     }
 }

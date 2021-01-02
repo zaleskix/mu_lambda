@@ -47,7 +47,9 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="sinusFunctionChart\My3DPoint.cs" />
+        <Compile Include="algorithm\Algorithm.cs" />
+        <Compile Include="algorithm\MyPoint2D.cs" />
+        <Compile Include="sinusFunctionChart\MyPoint3D.cs" />
         <Compile Include="sinusFunctionChart\SinusFunctionChartLogic.cs" />
         <Compile Include="sinusFunctionChart\SinusGroup.cs" />
         <Compile Include="Wykres.cs">

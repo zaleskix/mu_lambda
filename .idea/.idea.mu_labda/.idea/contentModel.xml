@@ -5,6 +5,10 @@
     <e p="C:\Users\danie\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_mu_labda.841143494.00" t="ExcludeRecursive" />
     <e p="C:\Users\danie\Desktop\Studia\mu_lambda\mu_labda" t="IncludeFlat">
       <e p="mu_labda" t="IncludeRecursive">
+        <e p="algorithm" t="Include">
+          <e p="Algorithm.cs" t="Include" />
+          <e p="MyPoint2D.cs" t="Include" />
+        </e>
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="mu_labda.csproj" t="IncludeRecursive" />
@@ -18,7 +22,7 @@
           <e p="Settings.settings" t="Include" />
         </e>
         <e p="sinusFunctionChart" t="Include">
-          <e p="My3DPoint.cs" t="Include" />
+          <e p="MyPoint3D.cs" t="Include" />
           <e p="SinusFunctionChartLogic.cs" t="Include" />
           <e p="SinusGroup.cs" t="Include" />
         </e>

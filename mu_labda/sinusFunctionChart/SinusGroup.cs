@@ -6,14 +6,14 @@ namespace mu_labda
 {
     public class SinusGroup
     {
-        private List<My3DPoint> points;
         private readonly Series _seria;
-        
-        
+        private readonly List<MyPoint3D> points;
+
+
         public SinusGroup(int groupId, Color groupColor)
         {
-            this.points = new List<My3DPoint>();
-            this._seria = new Series
+            points = new List<MyPoint3D>();
+            _seria = new Series
             {
                 Color = groupColor,
                 IsVisibleInLegend = false,
@@ -22,25 +22,25 @@ namespace mu_labda
                 MarkerSize = 15
             };
         }
-        
-        public void AddPoint(My3DPoint point)
+
+        public void AddPoint(MyPoint3D point)
         {
-            this.points.Add(point);
+            points.Add(point);
         }
 
         public void ClearPoints()
         {
-            this.points.Clear();
+            points.Clear();
         }
 
         public Series GetGroupSeries()
         {
-            return this._seria;
+            return _seria;
         }
 
-        public List<My3DPoint> GetPoints()
+        public List<MyPoint3D> GetPoints()
         {
-            return this.points;
+            return points;
         }
     }
 }
